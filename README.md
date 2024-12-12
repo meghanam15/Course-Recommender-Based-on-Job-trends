@@ -71,10 +71,12 @@ Dataset
 The project uses two primary datasets:
 
 LinkedIn Job Dataset: Contains job descriptions, skills, and titles.
+                      url: https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024
 
 Course Dataset (courses_with_skills.csv): Includes the following fields:
 
 id, title, url, is_paid, instructor_names, category, headline, num_subscribers, rating, num_reviews, instructional_level, objectives, curriculum, and Skills.
+url:https://www.kaggle.com/datasets/emrebayirr/udemy-course-dataset-categories-ratings-and-trends
 
 Note: The dataset includes columns for num_subscribers and num_reviews that are used for ranking courses.
 
